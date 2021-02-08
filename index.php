@@ -236,7 +236,7 @@
 	<div class="hiden" id="url1">
 		<input class="checkbox" type="checkbox" id="open_menu"><label>Menu setting</label>
 		<br>
-	          <div id="VA_MOD" title="Тут можно скачать последнюю версию и обсудить дальнейшие разработки">RizredVlo7zer0✬ Premium Candle Indikator :)</div>
+	          <div id="VA_MOD" title="Тут можно скачать последнюю версию и обсудить дальнейшие разработки">RizredVlo7zer0✬ <br>Premium Candle Indikator :)</div>
 		<br>
 	</div>
 	<div id="Menu">
