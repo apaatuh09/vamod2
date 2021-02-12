@@ -218,7 +218,7 @@
 	  </div></div>
   <select id="size" class="select" >
 	<option value="15" id="15" >15c.</option>
-	<option value="60" id="60" >M1</option>
+	<option value="60" id="60" selected>M1</option>
 	<option value="120" id="60" >M2</option>
 	<option value="180" id="60" >M3</option>
 	<option value="240" id="60" >M4</option>
@@ -231,7 +231,7 @@
 	<option value="86400" id="86400" >D1</option>
 	<option value="604800" id="604800" >W1</option>
   </select>
-  <input id="period" value="10" placeholder="Период" class="select" />
+  <input id="period" value="36" placeholder="Период" class="select" />
   <br>
 	<div class="hiden" id="url1">
 		<input class="checkbox" type="checkbox" id="open_menu"><label>Menu setting</label>
